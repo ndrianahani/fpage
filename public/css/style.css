@@ -37,3 +37,18 @@ a:hover {
   text-decoration: underline;
   color: grey;
 }
+
+.cool-btn {
+  background: white;
+  border: 2px solid gold;
+  border-radius: 2em;
+  padding: 1em;
+  text-transform: uppercase;
+  color: grey;
+}
+
+.cool-btn:hover {
+  background-color: gold;
+  color: white;
+  text-decoration: none;
+}
